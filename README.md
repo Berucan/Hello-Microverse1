@@ -1,8 +1,7 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
-> One paragraph statement about the project.
+> Hello Microverse1
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +9,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -45,9 +43,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Berucan](https://github.com/Berucan)
+- Twitter: [@daisyberucan](https://twitter.com/home)
+- LinkedIn: [Daisy Berucan](https://www.linkedin.com/in/daisy-berucan-07949814b/)
+tps://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
