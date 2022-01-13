@@ -3,8 +3,7 @@
 
 > Hello Microverse1
 
-![Screenshot 2022-01-11 at 17 19 29](https://user-images.githubusercontent.com/92875711/148959862-6120492a-84f2-40d6-8dd0-cf56ff7dddd0.png)
-
+![screenshot](./Hello.png)!
 
 Additional description about the project and its features.
 
