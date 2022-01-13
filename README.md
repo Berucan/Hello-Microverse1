@@ -37,6 +37,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
+### Run project test in your local environment.
+
+To get the copy of this project on your local machine, please go ahead and follow the steps below:
+- Open your terminal
+- clone the project from the source repository by running run: git clone https://github.com/Berucan/Hello-Microverse1.git.
+- Open the use the live server extension for vscode or index.html file in the browser.
 
 
 ## Authors
